@@ -1,0 +1,1103 @@
+1677629562931	geckodriver	INFO	Listening on 127.0.0.1:42535
+1677629562953	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--private" "--window-size=1920,1080" "--remote-debugging-port" "52743" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilecRSezL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1677629563300	Marionette	INFO	Marionette enabled
+1677629563302	Marionette	INFO	Listening on port 44977
+console.error: "Warning: unrecognized command line flag -window-size\n"
+Read port: 44977
+WebDriver BiDi listening on ws://127.0.0.1:52743
+1677629563386	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecRSezL/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:52743/devtools/browser/0c9fb16e-9240-4c4f-bc54-426e80fbc021
+console.error: ({})
+1677629571710	Marionette	INFO	Stopped listening on port 44977
+1677629582851	geckodriver	INFO	Listening on 127.0.0.1:38127
+1677629582869	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--ignore-certificate-errors" "--private" "--window-size=1920,1080" "--remote-debugging-port" "35807" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJeE4ai"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1677629583232	Marionette	INFO	Marionette enabled
+1677629583234	Marionette	INFO	Listening on port 43985
+console.error: "Warning: unrecognized command line flag -ignore-certificate-errors\n"
+Read port: 43985
+WebDriver BiDi listening on ws://127.0.0.1:35807
+1677629583364	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJeE4ai/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35807/devtools/browser/432c4626-8fad-4aed-9553-5c3d616694bd
+console.error: ({})
+1677629588770	Marionette	INFO	Stopped listening on port 43985
+1677629959969	geckodriver	INFO	Listening on 127.0.0.1:44613
+1677629959992	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--private" "--remote-debugging-port" "44679" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileaHQGrC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1677629960351	Marionette	INFO	Marionette enabled
+1677629960353	Marionette	INFO	Listening on port 32941
+Read port: 32941
+WebDriver BiDi listening on ws://127.0.0.1:44679
+1677629960464	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaHQGrC/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:44679/devtools/browser/eaefef6c-99c8-4751-8ca7-abbc498f9283
+console.error: ({})
+1677629975633	geckodriver	INFO	Listening on 127.0.0.1:45863
+1677629975652	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--private" "--window-size=1920,1080" "--remote-debugging-port" "44573" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile8kTA4a"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1677629976004	Marionette	INFO	Marionette enabled
+1677629976006	Marionette	INFO	Listening on port 46263
+console.error: "Warning: unrecognized command line flag -window-size\n"
+Read port: 46263
+WebDriver BiDi listening on ws://127.0.0.1:44573
+1677629976107	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8kTA4a/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:44573/devtools/browser/a4fd0ebc-11fd-4ec8-a8b1-be8180248da1
+console.error: ({})
+1677629983382	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1677629988771	Marionette	INFO	Stopped listening on port 32941
+1677629992669	Marionette	INFO	Stopped listening on port 46263
+1677630010979	geckodriver	INFO	Listening on 127.0.0.1:39657
+1677630010997	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--private" "--window-size=1000,1080" "--remote-debugging-port" "59045" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSLVs9U"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1677630011356	Marionette	INFO	Marionette enabled
+1677630011358	Marionette	INFO	Listening on port 38689
+console.error: "Warning: unrecognized command line flag -window-size\n"
+Read port: 38689
+WebDriver BiDi listening on ws://127.0.0.1:59045
+1677630011468	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSLVs9U/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:59045/devtools/browser/b438ff00-63bf-4d2f-99e8-cfd4d89ae07d
+console.error: ({})
+1677630026751	geckodriver	INFO	Listening on 127.0.0.1:51617
+1677630026769	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--private" "--window-size=500,1080" "--remote-debugging-port" "34251" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJgSGDD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1677630027146	Marionette	INFO	Marionette enabled
+1677630027148	Marionette	INFO	Listening on port 44135
+console.error: "Warning: unrecognized command line flag -window-size\n"
+Read port: 44135
+WebDriver BiDi listening on ws://127.0.0.1:34251
+1677630027256	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJgSGDD/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:34251/devtools/browser/a0aebdd7-ce04-4d06-a430-af713823949d
+console.error: ({})
+1677630033945	Marionette	INFO	Stopped listening on port 44135
+1677630040620	Marionette	INFO	Stopped listening on port 38689
+1677630126467	geckodriver	INFO	Listening on 127.0.0.1:46583
+1677630126485	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--private" "--window-size=1920,1080" "--remote-debugging-port" "36617" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileiLSUrw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1677630126844	Marionette	INFO	Marionette enabled
+1677630126846	Marionette	INFO	Listening on port 46527
+console.error: "Warning: unrecognized command line flag -window-size\n"
+Read port: 46527
+WebDriver BiDi listening on ws://127.0.0.1:36617
+1677630127285	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiLSUrw/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:36617/devtools/browser/be214008-57e3-4875-8bd5-150b23759828
+console.error: ({})
+1677630132020	Marionette	INFO	Stopped listening on port 46527
+1677630207296	geckodriver	INFO	Listening on 127.0.0.1:48129
+1677630207315	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--private" "--window-size=1920,1080" "--remote-debugging-port" "37921" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZdefuU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1677630207670	Marionette	INFO	Marionette enabled
+1677630207672	Marionette	INFO	Listening on port 42375
+console.error: "Warning: unrecognized command line flag -window-size\n"
+Read port: 42375
+WebDriver BiDi listening on ws://127.0.0.1:37921
+1677630207777	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZdefuU/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:37921/devtools/browser/4c5ba743-9fae-446a-a104-684677737059
+console.error: ({})
+1677630212327	Marionette	INFO	Stopped listening on port 42375
+1677630956088	geckodriver	INFO	Listening on 127.0.0.1:41651
+1677630956108	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--private" "--window-size=1920,1080" "--remote-debugging-port" "47193" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGQb7aa"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1677630956462	Marionette	INFO	Marionette enabled
+1677630956464	Marionette	INFO	Listening on port 45463
+console.error: "Warning: unrecognized command line flag -window-size\n"
+Read port: 45463
+WebDriver BiDi listening on ws://127.0.0.1:47193
+1677630956558	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGQb7aa/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:47193/devtools/browser/3e7815e8-b376-4a58-920c-350836e39b16
+console.error: ({})
+1677630966380	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.error: ({})
+1677630967264	Marionette	INFO	Stopped listening on port 45463
+1677630976882	geckodriver	INFO	Listening on 127.0.0.1:54363
+1677630976903	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--private" "--window-size=1920,1080" "--remote-debugging-port" "37473" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileoQ7i47"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1677630977302	Marionette	INFO	Marionette enabled
+1677630977304	Marionette	INFO	Listening on port 40515
+console.error: "Warning: unrecognized command line flag -window-size\n"
+WebDriver BiDi listening on ws://127.0.0.1:37473
+Read port: 40515
+1677630977509	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoQ7i47/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:37473/devtools/browser/5c5b9eee-e504-4c7e-b03a-a7524b0bedb3
+console.error: ({})
+1677630986966	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1677630986966	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1677630986967	Marionette	INFO	Stopped listening on port 40515
+1677631049428	geckodriver	INFO	Listening on 127.0.0.1:43283
+1677631049446	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--private" "--window-size=1920,1080" "--remote-debugging-port" "40059" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegcUEG0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1677631049800	Marionette	INFO	Marionette enabled
+1677631049802	Marionette	INFO	Listening on port 35667
+console.error: "Warning: unrecognized command line flag -window-size\n"
+Read port: 35667
+WebDriver BiDi listening on ws://127.0.0.1:40059
+1677631049925	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegcUEG0/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:40059/devtools/browser/17dc7d64-7dfe-4ac0-9ee2-170d8b3e7137
+console.error: ({})
+console.error: ({})
+console.error: ({})
+1677631106444	Marionette	INFO	Stopped listening on port 35667
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 904: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1677631108309	geckodriver	INFO	Listening on 127.0.0.1:49317
+1677631108328	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--private" "--window-size=1920,1080" "--remote-debugging-port" "42353" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKkc5cS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1677631108683	Marionette	INFO	Marionette enabled
+1677631108685	Marionette	INFO	Listening on port 41317
+console.error: "Warning: unrecognized command line flag -window-size\n"
+Read port: 41317
+WebDriver BiDi listening on ws://127.0.0.1:42353
+1677631108782	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKkc5cS/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:42353/devtools/browser/82260bc2-93b5-4d47-8e5a-7f8581634064
+console.error: ({})
+1677631116112	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1677631344331	Marionette	INFO	Stopped listening on port 41317
+1677631345988	geckodriver	INFO	Listening on 127.0.0.1:35435
+1677631346007	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--private" "--window-size=1920,1080" "--remote-debugging-port" "43257" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileymOSG4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1677631346376	Marionette	INFO	Marionette enabled
+1677631346379	Marionette	INFO	Listening on port 37327
+console.error: "Warning: unrecognized command line flag -window-size\n"
+Read port: 37327
+WebDriver BiDi listening on ws://127.0.0.1:43257
+1677631346495	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileymOSG4/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:43257/devtools/browser/06d72190-8435-4275-a14b-60124ce7c0b9
+console.error: ({})
+1677631353373	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1677631353374	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1677631353375	Marionette	INFO	Stopped listening on port 37327
+1677631579739	geckodriver	INFO	Listening on 127.0.0.1:39321
+1677631579757	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--private" "--window-size=1920,1080" "--remote-debugging-port" "38307" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevW86pJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1677631580134	Marionette	INFO	Marionette enabled
+1677631580137	Marionette	INFO	Listening on port 44673
+Read port: 44673
+console.error: "Warning: unrecognized command line flag -window-size\n"
+WebDriver BiDi listening on ws://127.0.0.1:38307
+1677631580264	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevW86pJ/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:38307/devtools/browser/00d38f88-ae0c-4b62-9b2a-155535cc979f
+console.error: ({})
+1677631592249	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1677631592250	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1677631592287	Marionette	INFO	Stopped listening on port 44673
+1677631990895	geckodriver	INFO	Listening on 127.0.0.1:41305
+1677631990914	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--private" "--window-size=1920,1080" "--remote-debugging-port" "32847" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3EqcEd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1677631991328	Marionette	INFO	Marionette enabled
+1677631991331	Marionette	INFO	Listening on port 44377
+console.error: "Warning: unrecognized command line flag -window-size\n"
+Read port: 44377
+WebDriver BiDi listening on ws://127.0.0.1:32847
+1677631991469	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3EqcEd/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:32847/devtools/browser/3c1069ab-4ff6-4e0c-b255-0463556a1c2f
+console.error: ({})
+1677632000563	Marionette	INFO	Stopped listening on port 44377
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+1677633724571	geckodriver	INFO	Listening on 127.0.0.1:41345
+1677633724589	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--private" "--window-size=1920,1080" "--remote-debugging-port" "34099" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledqcGMG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1677633724949	Marionette	INFO	Marionette enabled
+1677633724951	Marionette	INFO	Listening on port 41373
+console.error: "Warning: unrecognized command line flag -window-size\n"
+Read port: 41373
+WebDriver BiDi listening on ws://127.0.0.1:34099
+1677633725066	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledqcGMG/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:34099/devtools/browser/3cd12cd6-5178-4424-9838-1764d7526f49
+console.error: ({})
+1677633731977	Marionette	INFO	Stopped listening on port 41373
+1677748976911	geckodriver	INFO	Listening on 127.0.0.1:44873
+1677748976929	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--private" "--window-size=1920,1080" "--remote-debugging-port" "49129" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHs55yM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1677748977260	Marionette	INFO	Marionette enabled
+1677748977262	Marionette	INFO	Listening on port 41385
+console.error: "Warning: unrecognized command line flag -window-size\n"
+Read port: 41385
+WebDriver BiDi listening on ws://127.0.0.1:49129
+1677748977365	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 416))
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHs55yM/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.jsm", 237))
+DevTools listening on ws://127.0.0.1:49129/devtools/browser/e751b589-801b-43e5-ac3e-cf41601fa467
+1677748978087	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1677749225703	Marionette	INFO	Stopped listening on port 41385
+!!! error running onStopped callback: TypeError: callback is not a function
+1677749232880	geckodriver	INFO	Listening on 127.0.0.1:56861
+1677749232898	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--private" "--window-size=1920,1080" "--remote-debugging-port" "33497" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileA4bDNP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1677749233242	Marionette	INFO	Marionette enabled
+1677749233245	Marionette	INFO	Listening on port 43971
+console.error: "Warning: unrecognized command line flag -window-size\n"
+Read port: 43971
+WebDriver BiDi listening on ws://127.0.0.1:33497
+1677749233342	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileA4bDNP/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:33497/devtools/browser/5c48cb17-3ad8-4abf-9b6a-c6fa9a938c96
+console.error: ({})
+1677749238604	Marionette	INFO	Stopped listening on port 43971
+1677749309042	geckodriver	INFO	Listening on 127.0.0.1:49013
+1677749309059	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--private" "--window-size=1920,1080" "--remote-debugging-port" "34353" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilev6ALiK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1677749309388	Marionette	INFO	Marionette enabled
+1677749309390	Marionette	INFO	Listening on port 43443
+console.error: "Warning: unrecognized command line flag -window-size\n"
+Read port: 43443
+WebDriver BiDi listening on ws://127.0.0.1:34353
+1677749309489	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilev6ALiK/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:34353/devtools/browser/fdf63928-7c08-4a20-956c-7d90eced5144
+console.error: ({})
+1677749314481	Marionette	INFO	Stopped listening on port 43443
+1677794572690	geckodriver	INFO	Listening on 127.0.0.1:54201
+1677794573223	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--private" "--window-size=1920,1080" "--remote-debugging-port" "43853" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6HIJav"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1677794573599	Marionette	INFO	Marionette enabled
+1677794573601	Marionette	INFO	Listening on port 42765
+console.error: "Warning: unrecognized command line flag -window-size\n"
+Read port: 42765
+WebDriver BiDi listening on ws://127.0.0.1:43853
+1677794573700	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6HIJav/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:43853/devtools/browser/134268d0-a913-4011-95d1-ed011ec6ae11
+console.error: ({})
+1677794579150	Marionette	INFO	Stopped listening on port 42765
+1677796735861	geckodriver	INFO	Listening on 127.0.0.1:36831
+1677796735893	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--private" "--window-size=1920,1080" "--remote-debugging-port" "40087" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKBgi7E"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1677796736242	Marionette	INFO	Marionette enabled
+1677796736244	Marionette	INFO	Listening on port 35747
+console.error: "Warning: unrecognized command line flag -window-size\n"
+Read port: 35747
+WebDriver BiDi listening on ws://127.0.0.1:40087
+1677796736366	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKBgi7E/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:40087/devtools/browser/1be67659-2943-4c01-9a07-8647e2be4459
+console.error: ({})
+1677796741605	Marionette	INFO	Stopped listening on port 35747
+1677796882450	geckodriver	INFO	Listening on 127.0.0.1:45437
+1677796882471	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--private" "--window-size=1000,1080" "--remote-debugging-port" "47449" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile98hWf0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1677796882867	Marionette	INFO	Marionette enabled
+1677796882869	Marionette	INFO	Listening on port 35659
+Read port: 35659
+console.error: "Warning: unrecognized command line flag -window-size\n"
+WebDriver BiDi listening on ws://127.0.0.1:47449
+1677796882977	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile98hWf0/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:47449/devtools/browser/34dcefac-b57b-49b1-84e8-b330787ebe5f
+console.error: ({})
+1677796888567	Marionette	INFO	Stopped listening on port 35659
+1677796933108	geckodriver	INFO	Listening on 127.0.0.1:34067
+1677796933132	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--private" "--window-size=1000,1080" "--remote-debugging-port" "46155" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9qHIZx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1677796933504	Marionette	INFO	Marionette enabled
+1677796933506	Marionette	INFO	Listening on port 34667
+console.error: "Warning: unrecognized command line flag -window-size\n"
+Read port: 34667
+WebDriver BiDi listening on ws://127.0.0.1:46155
+1677796933617	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9qHIZx/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:46155/devtools/browser/62b9e9fa-ddae-41ed-82a0-d485ffe747d8
+console.error: ({})
+1677796937873	Marionette	INFO	Stopped listening on port 34667
+1677796937914	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+[2023-03-02T22:42:18Z ERROR glean_core] Can't persist ping lifetime data: Error { kind: Rkv(IoError(Os { code: 2, kind: NotFound, message: "No such file or directory" })) }
+1677796946263	geckodriver	INFO	Listening on 127.0.0.1:37707
+1677796946282	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--private" "--window-size=1000,1080" "--remote-debugging-port" "49947" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileN4RtH6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1677796946638	Marionette	INFO	Marionette enabled
+1677796946640	Marionette	INFO	Listening on port 37123
+console.error: "Warning: unrecognized command line flag -window-size\n"
+Read port: 37123
+WebDriver BiDi listening on ws://127.0.0.1:49947
+1677796946737	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileN4RtH6/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:49947/devtools/browser/875d84e5-4691-4b7c-895c-93c02c1dbc5c
+console.error: ({})
+1677796952116	Marionette	INFO	Stopped listening on port 37123
+1677812761768	geckodriver	INFO	Listening on 127.0.0.1:43137
+1677812761786	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--window-size=1920,1080" "--remote-debugging-port" "60773" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenojPjk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1677812762156	Marionette	INFO	Marionette enabled
+1677812762159	Marionette	INFO	Listening on port 41897
+console.error: "Warning: unrecognized command line flag -window-size\n"
+Read port: 41897
+WebDriver BiDi listening on ws://127.0.0.1:60773
+1677812762260	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenojPjk/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60773/devtools/browser/8434eedf-8503-488b-9cb5-45b2ed0f2477
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+1677812766788	Marionette	INFO	Stopped listening on port 41897
+1677813024170	geckodriver	INFO	Listening on 127.0.0.1:49917
+1677813024187	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--window-size=1920,1080" "--remote-debugging-port" "40825" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYKTJcL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1677813024553	Marionette	INFO	Marionette enabled
+1677813024555	Marionette	INFO	Listening on port 35475
+console.error: "Warning: unrecognized command line flag -window-size\n"
+Read port: 35475
+WebDriver BiDi listening on ws://127.0.0.1:40825
+1677813024670	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYKTJcL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:40825/devtools/browser/a9c236a0-a322-4ad6-94c9-f703c384c0a5
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+1677813028563	Marionette	INFO	Stopped listening on port 35475
+1677813057521	geckodriver	INFO	Listening on 127.0.0.1:56279
+1677813057538	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--window-size=1920,1080" "--remote-debugging-port" "37903" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBgFvQ9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1677813057898	Marionette	INFO	Marionette enabled
+1677813057900	Marionette	INFO	Listening on port 42503
+console.error: "Warning: unrecognized command line flag -window-size\n"
+Read port: 42503
+WebDriver BiDi listening on ws://127.0.0.1:37903
+1677813058001	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBgFvQ9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:37903/devtools/browser/07389450-4438-4903-98d2-540a54afc773
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+1677813062809	Marionette	INFO	Stopped listening on port 42503
+1677813278341	geckodriver	INFO	Listening on 127.0.0.1:55687
+1677813278359	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--window-size=1920,1080" "--remote-debugging-port" "58067" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9f6u0u"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1677813278720	Marionette	INFO	Marionette enabled
+1677813278722	Marionette	INFO	Listening on port 45549
+console.error: "Warning: unrecognized command line flag -window-size\n"
+Read port: 45549
+WebDriver BiDi listening on ws://127.0.0.1:58067
+1677813278851	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9f6u0u/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58067/devtools/browser/6b608100-c3e7-4aef-b151-5c7d30188d34
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+1677813282622	Marionette	INFO	Stopped listening on port 45549
+1677813439664	geckodriver	INFO	Listening on 127.0.0.1:47133
+1677813439681	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--window-size=1920,1080" "--remote-debugging-port" "53059" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZje1aw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1677813440042	Marionette	INFO	Marionette enabled
+1677813440044	Marionette	INFO	Listening on port 42521
+console.error: "Warning: unrecognized command line flag -window-size\n"
+Read port: 42521
+WebDriver BiDi listening on ws://127.0.0.1:53059
+1677813440154	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZje1aw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53059/devtools/browser/615c1fed-b4d3-41bf-a7f6-19c618bea5dc
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+1677813446583	Marionette	INFO	Stopped listening on port 42521
+1677814159794	geckodriver	INFO	Listening on 127.0.0.1:60979
+1677814159811	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--window-size=1920,1080" "--remote-debugging-port" "50781" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0adzmI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1677814160162	Marionette	INFO	Marionette enabled
+1677814160164	Marionette	INFO	Listening on port 34325
+console.error: "Warning: unrecognized command line flag -window-size\n"
+Read port: 34325
+WebDriver BiDi listening on ws://127.0.0.1:50781
+1677814160266	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0adzmI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50781/devtools/browser/bf3e1c4a-c973-43e1-ae9c-f871c3b46d65
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://lx.uts.edu.au."
+1677814193285	Marionette	INFO	Stopped listening on port 34325
+1677814390674	geckodriver	INFO	Listening on 127.0.0.1:57979
+1677814390692	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--window-size=1920,1080" "--remote-debugging-port" "56323" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCwb5Cu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1677814391043	Marionette	INFO	Marionette enabled
+1677814391045	Marionette	INFO	Listening on port 32859
+console.error: "Warning: unrecognized command line flag -window-size\n"
+Read port: 32859
+WebDriver BiDi listening on ws://127.0.0.1:56323
+1677814391154	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCwb5Cu/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56323/devtools/browser/03725f46-e2a7-4b0e-b20d-162a063d7d35
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://lx.uts.edu.au."
+1677814420072	Marionette	INFO	Stopped listening on port 32859
+1677814513440	geckodriver	INFO	Listening on 127.0.0.1:48195
+1677814513458	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--window-size=1920,1080" "--remote-debugging-port" "34457" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileggD2uh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1677814513810	Marionette	INFO	Marionette enabled
+1677814513812	Marionette	INFO	Listening on port 39399
+console.error: "Warning: unrecognized command line flag -window-size\n"
+Read port: 39399
+WebDriver BiDi listening on ws://127.0.0.1:34457
+1677814513926	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileggD2uh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34457/devtools/browser/d27f1bf7-8ef9-4b6f-b6e5-6f505ec3de1a
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+1677814544548	Marionette	INFO	Stopped listening on port 39399
+1677814730901	geckodriver	INFO	Listening on 127.0.0.1:45025
+1677814730920	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--window-size=1920,1080" "--remote-debugging-port" "36157" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilelroQrT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1677814731292	Marionette	INFO	Marionette enabled
+1677814731294	Marionette	INFO	Listening on port 39765
+console.error: "Warning: unrecognized command line flag -window-size\n"
+Read port: 39765
+WebDriver BiDi listening on ws://127.0.0.1:36157
+1677814731402	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelroQrT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:36157/devtools/browser/7a005d91-c6ad-4945-8ba3-9823bfe88e79
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://lx.uts.edu.au."
+1677814761476	Marionette	INFO	Stopped listening on port 39765
+1677814794583	geckodriver	INFO	Listening on 127.0.0.1:56059
+1677814794601	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--window-size=1920,1080" "--remote-debugging-port" "33943" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileashDKo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1677814794956	Marionette	INFO	Marionette enabled
+1677814794958	Marionette	INFO	Listening on port 36093
+console.error: "Warning: unrecognized command line flag -window-size\n"
+Read port: 36093
+WebDriver BiDi listening on ws://127.0.0.1:33943
+1677814795066	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileashDKo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33943/devtools/browser/3ea4cccb-4499-4c47-967e-7606f465df61
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://lx.uts.edu.au."
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+1677814858085	geckodriver	INFO	Listening on 127.0.0.1:44843
+1677814858105	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--window-size=1920,1080" "--remote-debugging-port" "56321" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQmeYaQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1677814858458	Marionette	INFO	Marionette enabled
+1677814858460	Marionette	INFO	Listening on port 45993
+console.error: "Warning: unrecognized command line flag -window-size\n"
+Read port: 45993
+WebDriver BiDi listening on ws://127.0.0.1:56321
+1677814858557	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQmeYaQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56321/devtools/browser/19dfd18c-9284-49f3-81fb-3de83208811a
+1677814861965	Marionette	INFO	Stopped listening on port 36093
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://lx.uts.edu.au."
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+1677815079878	Marionette	INFO	Stopped listening on port 45993
+1677815081896	geckodriver	INFO	Listening on 127.0.0.1:56291
+1677815081913	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--window-size=1920,1080" "--remote-debugging-port" "37737" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepESsAN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1677815082613	Marionette	INFO	Marionette enabled
+1677815082615	Marionette	INFO	Listening on port 37289
+console.error: "Warning: unrecognized command line flag -window-size\n"
+WebDriver BiDi listening on ws://127.0.0.1:37737
+Read port: 37289
+1677815082803	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepESsAN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:37737/devtools/browser/3338a178-4024-4e85-bf30-4aac3eba8242
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+1677815192666	geckodriver	INFO	Listening on 127.0.0.1:57787
+1677815192685	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--window-size=1920,1080" "--remote-debugging-port" "50031" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileY6r8MV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1677815193035	Marionette	INFO	Marionette enabled
+1677815193037	Marionette	INFO	Listening on port 45539
+console.error: "Warning: unrecognized command line flag -window-size\n"
+Read port: 45539
+WebDriver BiDi listening on ws://127.0.0.1:50031
+1677815193139	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileY6r8MV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50031/devtools/browser/10928669-8de7-4498-b1e4-9fe10954df87
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+1677815242517	Marionette	INFO	Stopped listening on port 45539
+1677815244105	geckodriver	INFO	Listening on 127.0.0.1:60519
+1677815244123	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--window-size=1920,1080" "--remote-debugging-port" "53823" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6fp3Sd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1677815244477	Marionette	INFO	Marionette enabled
+1677815244479	Marionette	INFO	Listening on port 40027
+console.error: "Warning: unrecognized command line flag -window-size\n"
+Read port: 40027
+WebDriver BiDi listening on ws://127.0.0.1:53823
+1677815244583	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6fp3Sd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53823/devtools/browser/225d4d41-0edd-420b-8a9e-2910f2ad92ea
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://lx.uts.edu.au."
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/back-to-top-button.js?ver=1.1, line 2: TypeError: $ is not a function
+1677815385923	Marionette	INFO	Stopped listening on port 40027
+1677815416038	geckodriver	INFO	Listening on 127.0.0.1:56847
+1677815416055	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--window-size=1920,1080" "--remote-debugging-port" "54905" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileUoeEqh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1677815416417	Marionette	INFO	Marionette enabled
+1677815416420	Marionette	INFO	Listening on port 46637
+console.error: "Warning: unrecognized command line flag -window-size\n"
+Read port: 46637
+WebDriver BiDi listening on ws://127.0.0.1:54905
+1677815416518	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUoeEqh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54905/devtools/browser/5ad68432-3ab4-47a4-87f9-a2924723a7b8
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://lx.uts.edu.au."
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+1677815461220	Marionette	INFO	Stopped listening on port 46637
+1677815542362	geckodriver	INFO	Listening on 127.0.0.1:40873
+1677815542379	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--window-size=1920,1080" "--remote-debugging-port" "44857" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemOBhoE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1677815542740	Marionette	INFO	Marionette enabled
+1677815542742	Marionette	INFO	Listening on port 39399
+console.error: "Warning: unrecognized command line flag -window-size\n"
+Read port: 39399
+WebDriver BiDi listening on ws://127.0.0.1:44857
+1677815542851	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemOBhoE/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:44857/devtools/browser/1df7f97a-69e2-4758-9eee-d3cf78fa76fd
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://lx.uts.edu.au."
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+1677815641631	Marionette	INFO	Stopped listening on port 37289
+1677815903961	geckodriver	INFO	Listening on 127.0.0.1:59075
+1677815903980	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--window-size=1920,1080" "--remote-debugging-port" "58489" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebJokLm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1677815904334	Marionette	INFO	Marionette enabled
+1677815904336	Marionette	INFO	Listening on port 41095
+console.error: "Warning: unrecognized command line flag -window-size\n"
+Read port: 41095
+WebDriver BiDi listening on ws://127.0.0.1:58489
+1677815904469	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebJokLm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58489/devtools/browser/c120bdbb-1a33-4ea4-98c2-2f837e9b4c88
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://lx.uts.edu.au."
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+1677815952771	Marionette	INFO	Stopped listening on port 41095
+1677817498426	geckodriver	INFO	Listening on 127.0.0.1:45741
+1677817498444	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--window-size=1920,1080" "--remote-debugging-port" "37845" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebf2QG4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1677817498802	Marionette	INFO	Marionette enabled
+1677817498804	Marionette	INFO	Listening on port 38269
+console.error: "Warning: unrecognized command line flag -window-size\n"
+Read port: 38269
+WebDriver BiDi listening on ws://127.0.0.1:37845
+1677817498901	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebf2QG4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:37845/devtools/browser/65ef3cbe-2712-4d20-8367-03b5785536b0
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://lx.uts.edu.au."
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+1677818072297	geckodriver	INFO	Listening on 127.0.0.1:53251
+1677818072315	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--window-size=1920,1080" "--remote-debugging-port" "36327" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileaCMs7t"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1677818072683	Marionette	INFO	Marionette enabled
+1677818072685	Marionette	INFO	Listening on port 39765
+console.error: "Warning: unrecognized command line flag -window-size\n"
+Read port: 39765
+WebDriver BiDi listening on ws://127.0.0.1:36327
+1677818072783	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaCMs7t/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:36327/devtools/browser/6c0ec1d1-624c-46d0-89a5-c6d9a2eb4602
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://lx.uts.edu.au."
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+1677818110882	Marionette	INFO	Stopped listening on port 39765
+1677818238714	Marionette	INFO	Stopped listening on port 38269
+1677818243302	Marionette	INFO	Stopped listening on port 39399
+1677852667395	geckodriver	INFO	Listening on 127.0.0.1:42293
+1677852667925	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--window-size=1920,1080" "--remote-debugging-port" "47117" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile668Iu0"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677852668195	Marionette	INFO	Marionette enabled
+1677852668199	Marionette	INFO	Listening on port 36237
+Read port: 36237
+console.error: "Warning: unrecognized command line flag -window-size\n"
+WebDriver BiDi listening on ws://127.0.0.1:47117
+1677852668331	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile668Iu0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:47117/devtools/browser/fcfe5f84-3b99-4b0b-bb4c-5240b13da93f
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://lx.uts.edu.au."
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+1677852705505	Marionette	INFO	Stopped listening on port 36237
+1677853120466	geckodriver	INFO	Listening on 127.0.0.1:36047
+1677853120489	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--window-size=1920,1080" "--remote-debugging-port" "32823" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5U4DeM"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677853120749	Marionette	INFO	Marionette enabled
+1677853120752	Marionette	INFO	Listening on port 35975
+console.error: "Warning: unrecognized command line flag -window-size\n"
+Read port: 35975
+WebDriver BiDi listening on ws://127.0.0.1:32823
+1677853120867	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5U4DeM/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:32823/devtools/browser/ef4dfb66-ef1b-4495-b3d4-e42cfab5407a
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://lx.uts.edu.au."
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+1677853158943	Marionette	INFO	Stopped listening on port 35975
+1677853173126	geckodriver	INFO	Listening on 127.0.0.1:33405
+1677853173149	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--window-size=1920,1080" "--remote-debugging-port" "36573" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilerWNZ2n"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677853173404	Marionette	INFO	Marionette enabled
+1677853173407	Marionette	INFO	Listening on port 39191
+console.error: "Warning: unrecognized command line flag -window-size\n"
+Read port: 39191
+WebDriver BiDi listening on ws://127.0.0.1:36573
+1677853173517	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerWNZ2n/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:36573/devtools/browser/33d07a5f-fc89-48a3-8c1d-8d8e5b4d1649
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+1677853200621	geckodriver	INFO	Listening on 127.0.0.1:33171
+1677853200643	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--window-size=1920,1080" "--remote-debugging-port" "51651" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekBadLF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1677853201180	Marionette	INFO	Marionette enabled
+1677853201183	Marionette	INFO	Listening on port 46183
+console.error: "Warning: unrecognized command line flag -window-size\n"
+Read port: 46183
+WebDriver BiDi listening on ws://127.0.0.1:51651
+1677853201368	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekBadLF/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51651/devtools/browser/036825f9-e24d-49f1-af8c-a5da66e0f5bb
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://lx.uts.edu.au."
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
+1677853237975	Marionette	INFO	Stopped listening on port 46183
