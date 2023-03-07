@@ -1101,3 +1101,52 @@ console.warn: LoginRecipes: "Falling back to a synchronous message for: https://
 JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
 JavaScript error: https://lx.uts.edu.au/wp-content/themes/uts%20Child%20Theme%20-%20LX%20Resources/js/modal-script.js?ver=1.1, line 29: TypeError: span is undefined
 1677853237975	Marionette	INFO	Stopped listening on port 46183
+1678153907678	geckodriver	INFO	Listening on 127.0.0.1:42519
+1678153907734	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--private" "--window-size=1920,1080" "--remote-debugging-port" "60163" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJ9ic1V"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678153908638	Marionette	INFO	Marionette enabled
+1678153908642	Marionette	INFO	Listening on port 33553
+console.error: "Warning: unrecognized command line flag -window-size\n"
+Read port: 33553
+WebDriver BiDi listening on ws://127.0.0.1:60163
+1678153908834	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJ9ic1V/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:60163/devtools/browser/8dc4e2ee-04d7-4639-b526-64cc196e9445
+console.error: ({})
+1678153919629	Marionette	INFO	Stopped listening on port 33553
+Invalid port. Exiting...
+1678159860701	geckodriver	INFO	Listening on 127.0.0.1:50305
+1678159860735	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--private" "--window-size=1920,1080" "--remote-debugging-port" "43505" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileWpdK63"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678159861603	Marionette	INFO	Marionette enabled
+1678159861608	Marionette	INFO	Listening on port 36765
+Read port: 36765
+console.error: "Warning: unrecognized command line flag -window-size\n"
+WebDriver BiDi listening on ws://127.0.0.1:43505
+1678159861804	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWpdK63/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:43505/devtools/browser/a9bfe987-5235-45ab-ba1a-040e95836768
+console.error: ({})
+1678159872849	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.error: ({})
+1678159874345	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.uts.edu.au."
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://handbook.uts.edu.au."
+1678159882143	Marionette	INFO	Stopped listening on port 36765
+console.error: ({})
