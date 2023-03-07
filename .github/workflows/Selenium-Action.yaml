@@ -17,15 +17,15 @@ jobs:
 
       - name: Install Selenium
         run: pip install selenium
-
-      - name: Running the Firefox Test
-        run: python3 Selenium_Firefox_Website_Test.py
-
+      
       - name: Running the Chrome Test
         run: python3 Selenium_Chrome_Website_Test.py
 
       - name: Running the Edge Test
         run: python3 Selenium_Edge_Website_Test.py
 
+      - name: Running the Firefox Test
+        run: python3 Selenium_Firefox_Website_Test.py
+
       - name: TEAM ROCKET!!!
-        run:  ./TeamRocket.sh
+        run: ./TeamRocket.sh
