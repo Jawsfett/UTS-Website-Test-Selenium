@@ -10,11 +10,11 @@ from selenium import webdriver
 
 
 
-s = Service('/usr/local/bin/chromedriver')
+s = Service('UTS-Website-Test-Selenium/chromedriver')
 options = webdriver.ChromeOptions()
 options = Options()
-#options.add_argument("--headless")
-options.add_argument("--private")
+options.add_argument("--headless")
+options.add_argument("--incognito")
 options.add_argument("--window-size=1920,1080")
 
 
