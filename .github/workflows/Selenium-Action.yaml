@@ -3,7 +3,7 @@ name: Run Selenium On GitHub Action
 on:
   push:
     branches:
-      - main
+      - master
 jobs:
   scrape:
     runs-on: ubuntu-latest
