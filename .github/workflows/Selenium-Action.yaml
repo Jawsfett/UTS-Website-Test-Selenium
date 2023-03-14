@@ -29,3 +29,5 @@ jobs:
 
       - name: TEAM ROCKET!!!
         run: ./TeamRocket.sh
+
+# GG ez
